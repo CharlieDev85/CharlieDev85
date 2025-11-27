@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CharlieDev85
-- 👀 I’m interested in java, javascript
+- ☕️ I’m interested in Java
 - 🌱 I’m currently learning spring
-- 💞️ I’m looking to collaborate on spring projects
+- 💻 I’m looking to collaborate on spring projects
 - 📫 Contact me by email to kikemarroquin@gmail.com
 
 <!---
